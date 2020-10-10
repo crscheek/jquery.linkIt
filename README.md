@@ -10,7 +10,7 @@
 
 
 ##Vendors##
-jQuery - [hppt://jquery.com](http://jquery,com)
+jQuery - [hppt://jquery.com](http://jquery.com)
 
 
 ##License##
